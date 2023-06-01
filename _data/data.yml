@@ -45,21 +45,21 @@ experiences:
     info:
       - role: Embedded Software Developer
         time: Sep 2018 - Current
-        company: Karl Storz Imaging
+        company: [Karl Storz Imaging](https://www.karlstorz.com/ca/en/usa-goleta-imaging.htm)
         details: |
           Used C++ to develop software for camera control units running atop a custom, in-house Linux distribution. These CCUs were responsible for: advanced video dashboard features (e.g. Picture-in-Picture, auto-rotation), interfacing with USB devices, communicating with other CCUs via network connection, and recording images/video to a flash drive or remote location.
 
           Used C++ to develop software for a variety of endoscopes running directly on Xilinx Microblaze soft-core processors. In addition to image sensors, these endoscopes are equipped with buttons, accelerometers, and other peripherals that communicate via various low-level protocols like I2C and SPI.
       - role: Software Developer [Contract]
         time: Apr 2021 - Feb 2022
-        company: Amigen
+        company: [Amigen](https://amigen.us/)
         details: |
           Aided in development of "smart" weapon sight system. Product ran on a custom embedded Linux distribution, and relayed video feed from both thermal and visible light sensors onto display. Core software was written in C++, featuring a GUI system allowing the user to change display modes via external dial, and USB mass storage functionality for saving screenshots and videos.
 
           Aided in development of libAmigen, an in-house replacement for GStreamer (pipeline-based multimedia framework library) --- personally responsible for developing image processing plugins that performed functions like edge-detection.
       - role: Software Engineering Intern
         time: May 2018 - Aug 2018
-        company: Las Cumbres Observatory
+        company: [Las Cumbres Observatory](https://en.wikipedia.org/wiki/Las_Cumbres_Observatory)
         details: |
           Used Go and VueJS to help create a dashboard to monitor telescope telemetry and weather data at 8 observatory sites. Available at: [github.com/LCOGT/weatherclient](github.com/LCOGT/weatherclient)
 
