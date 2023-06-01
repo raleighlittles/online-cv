@@ -63,6 +63,6 @@ experiences:
         details: |
           Used Go and VueJS to help create a dashboard to monitor telescope telemetry and weather data at 8 observatory sites. Available at: [github.com/LCOGT/weatherclient](github.com/LCOGT/weatherclient)
 
-          Implemented program to detect and flag damaged pixels from a CCD image sensor based on an several calibration images, ultimately increasing produced data quality. Available at: [https://github.com/LCOGT/pixel-mask-gen]{github.com/LCOGT/pixel-mask-gen)
+          Implemented program to detect and flag damaged pixels from a CCD image sensor based on an several calibration images, ultimately increasing produced data quality. Available at: [https://github.com/LCOGT/pixel-mask-gen](github.com/LCOGT/pixel-mask-gen)
 
           Programmed Raspberry Pi to serve as a filter wheel controller for 2-meter telescopes; the Raspberry Pi communicated with an MDrive® stepper motor and several Hall Effect sensors allowing astronomers to select and change filters in real-time
