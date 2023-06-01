@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: raleighlittles@ucsb.edu
     phone: 805 699 5193
-    timezone: America/Cancun Timezone
+    timezone: America/Los Angeles
     citizenship: United States
     linkedin: raleigh-littles
     xing:
@@ -28,12 +28,6 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: https://raleigh-littles-about-me.s3.us-west-1.amazonaws.com/Raleigh-Littles-Resume.pdf
-
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
 
 career-profile:
     title: Career Profile
@@ -54,19 +48,21 @@ experiences:
         company: Karl Storz Imaging
         details: |
           Used C++ to develop software for camera control units running atop a custom, in-house Linux distribution. These CCUs were responsible for: advanced video dashboard features (e.g. Picture-in-Picture, auto-rotation), interfacing with USB devices, communicating with other CCUs via network connection, and recording images/video to a flash drive or remote location.
+
           Used C++ to develop software for a variety of endoscopes running directly on Xilinx Microblaze soft-core processors. In addition to image sensors, these endoscopes are equipped with buttons, accelerometers, and other peripherals that communicate via various low-level protocols like I2C and SPI.
       - role: Software Developer [Contract]
         time: Apr 2021 - Feb 2022
         company: Amigen
         details: |
           Aided in development of ``smart" weapon sight system. Product ran on a custom embedded Linux distribution, and relayed video feed from both thermal and visible light sensors onto display. Core software was written in C++, featuring a GUI system allowing the user to change display modes via external dial, and USB mass storage functionality for saving screenshots and videos.
+
           Aided in development of libAmigen, an in-house replacement for GStreamer (pipeline-based multimedia framework library) --- personally responsible for developing image processing plugins that performed functions like edge-detection.
       - role: Software Engineering Intern
         time: May 2018 - Aug 2018
         company: Las Cumbres Observatory
         details: |
-          Used Go and VueJS to help create a dashboard to monitor telescope telemetry and weather data at 8 observatory sites. Available at: github.com/LCOGT/weatherclient
+          Used Go and VueJS to help create a dashboard to monitor telescope telemetry and weather data at 8 observatory sites. Available at: [github.com/LCOGT/weatherclient](github.com/LCOGT/weatherclient)
+
           Implemented program to detect and flag damaged pixels from a CCD image sensor based on an several calibration images, ultimately increasing produced data quality. Available at: https://github.com/LCOGT/pixel-mask-gen}{github.com/LCOGT/pixel-mask-gen
+
           Programmed Raspberry Pi to serve as a filter wheel controller for 2-meter telescopes; the Raspberry Pi communicated with an MDrive® stepper motor and several Hall Effect sensors allowing astronomers to select and change filters in real-time
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
