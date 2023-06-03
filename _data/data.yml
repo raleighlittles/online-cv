@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: 1576548/raleigh-l # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://raleigh-littles-about-me.s3.us-west-1.amazonaws.com/Raleigh-Littles-Resume.pdf
+    pdf: /assets/documents/resume.pdf
 
 career-profile:
     title: Career Profile
