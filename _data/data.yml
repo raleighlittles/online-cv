@@ -35,7 +35,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm currently working as an Embedded Software Developer at Karl Storz Imaging.
+      TBD
 education:
     title: Education
     info:
@@ -47,7 +47,7 @@ experiences:
     title: Experiences
     info:
       - role: Embedded Software Developer
-        time: Sep 2018 - Current
+        time: Sep 2018 - Aug 2023
         company: Karl Storz Imaging
         details: |
           Used C++ to develop software for camera control units running atop a custom, in-house Linux distribution. These CCUs were responsible for: advanced video dashboard features (e.g. Picture-in-Picture, auto-rotation), interfacing with USB devices, communicating with other CCUs via network connection, and recording images/video to a flash drive or remote location.
