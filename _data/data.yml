@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Raleigh Littles III
-    tagline: Embedded Software Developer
+    tagline: Software Developer
     avatar: rl_logo.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -36,6 +36,7 @@ career-profile:
     title: Career Profile
     summary: |
       TBD
+      
 education:
     title: Education
     info:
@@ -46,6 +47,12 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Sr Realtime Embedded Software Engineer
+        time: Sep 2023 - Present
+        company: Raytheon
+        details: |
+          Raytheon is a US Department of Defense contractor, and as such, I can't publicly divulge the details of my work there. If you are interested in discussing my experiences here, please contact me.
+
       - role: Embedded Software Developer
         time: Sep 2018 - Aug 2023
         company: Karl Storz Imaging
@@ -53,6 +60,7 @@ experiences:
           Used C++ to develop software for camera control units running atop a custom, in-house Linux distribution. These CCUs were responsible for: advanced video dashboard features (e.g. Picture-in-Picture, auto-rotation), interfacing with USB devices, communicating with other CCUs via network connection, and recording images/video to a flash drive or remote location.
 
           Used C++ to develop software for a variety of endoscopes running directly on Xilinx Microblaze soft-core processors. In addition to image sensors, these endoscopes are equipped with buttons, accelerometers, and other peripherals that communicate via various low-level protocols like I2C and SPI.
+
       - role: Software Developer [Contract]
         time: Apr 2021 - Feb 2022
         company: Amigen
@@ -60,6 +68,7 @@ experiences:
           Aided in development of "smart" weapon sight system. Product ran on a custom embedded Linux distribution, and relayed video feed from both thermal and visible light sensors onto display. Core software was written in C++, featuring a GUI system allowing the user to change display modes via external dial, and USB mass storage functionality for saving screenshots and videos.
 
           Aided in development of libAmigen, an in-house replacement for GStreamer (pipeline-based multimedia framework library) --- personally responsible for developing image processing plugins that performed functions like edge-detection.
+
       - role: Software Engineering Intern
         time: May 2018 - Aug 2018
         company: Las Cumbres Observatory
