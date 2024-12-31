@@ -13,7 +13,6 @@ sidebar:
 
     # Sidebar links
     email: raleighlittles@ucsb.edu
-    phone: 805 699 5193
     timezone: UTC-07:00
     citizenship: United States
     linkedin: raleigh-littles
@@ -40,7 +39,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: BSc in Mathematics
+      - degree: B.S. in Mathematics
         university: University of California, Santa Barbara
         time: 2014-2018
 
